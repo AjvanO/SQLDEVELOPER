@@ -1,0 +1,4 @@
+SELECT 
+    timestamp_column::DATE AS date_column
+FROM 
+    table_name;
